@@ -2,7 +2,7 @@
 
 
 # Telegram bot for Craiyon Image generator
-# Github : https://github.com/Kourva/CraiyonBot
+# Github : https://github.com/kozyol/CraiyonBot
 
 
 # Imports
