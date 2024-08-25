@@ -8,7 +8,7 @@
 # Installation
 + clone
 ```bash
-git clone https://github.com/kozyol/CraiyonBot
+git clone https://github.com/Kourva/CraiyonBot
 ```
 + requirements
 ```bash
